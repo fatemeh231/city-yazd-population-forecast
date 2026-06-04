@@ -63,3 +63,13 @@ After running `population_ml.py`, you will see output in new excel file.
    pip install -r requirements.txt
 
 python population_ml.py
+
+Viewing the Interactive Dashboard
+
+    Download the population.pbix and cleaned.xlsx files from this repository to the same folder on your computer.
+
+    Open the .pbix file with Power BI Desktop (it's free).
+
+    If prompted to edit or change the data source settings, simply re-point the connection to the local cleaned.xlsx file you downloaded.
+
+    The report will then load, and you can explore all the interactive visualizations.
